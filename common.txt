@@ -1,5 +1,12 @@
 1
+<<<<<<< HEAD
 2
 down3
 4
 down5
+=======
+up2
+3
+4
+up5
+>>>>>>> 1ebc16c0f427b3b768a0a1f4ff0ee1edf94ad3c6
